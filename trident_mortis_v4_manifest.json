@@ -1,0 +1,17 @@
+{
+  "name": "Trident Mortis Portal",
+  "short_name": "Trident Portal",
+  "description": "Secure Portal for Cashflow and Project Progress Tracker",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#030303",
+  "theme_color": "#E50914",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "IMG_20250731_190635_413.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    }
+  ]
+}
